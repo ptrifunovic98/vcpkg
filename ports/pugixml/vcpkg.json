@@ -13,5 +13,10 @@
       "name": "vcpkg-cmake-config",
       "host": true
     }
-  ]
+  ],
+  "features": {
+    "compact": {
+      "description": "Enable compact mode for better memory consumption for large XML documents"
+    }
+  }
 }
